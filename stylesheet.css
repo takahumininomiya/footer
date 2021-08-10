@@ -18,3 +18,15 @@ body{
     top:10px;
     position:relative;
 }
+/*----------------------------------header-------------------*/
+#header{
+    width: 100px;
+}
+#header h1{
+        margin: 0;
+        padding:0;
+    }
+    #corridor{
+        width:100%;
+        height:auto;
+    }
